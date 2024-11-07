@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChveroDev
-- 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Mobile development, OOP programming and clean code
+- 🌱 I’m currently learning Spring boot
 - 📫 How to reach me jchaveroDev@gmail.com
 - 😄 Pronouns: he/him
 
